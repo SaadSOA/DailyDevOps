@@ -1,5 +1,5 @@
 # Assign two numbers to variables
-num1=5
+num1=20
 num2=10
 
 # Compare the numbers using if-else statements

@@ -1,5 +1,7 @@
 #/bin/bash
 
-echo "Today is " `date`
+ls
+pwd
 
 
+echo "Hello world"
