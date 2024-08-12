@@ -2,7 +2,7 @@
    "fileLocations": [
        {
            "URIs": [
-               "s3://visualise-data-project-1/Amazon-Bestseller-Dataset.csv"
+               "s3://visualise-aws-quicksight-project/Amazon-Bestseller-Dataset.csv"
            ]
        }
    ],
